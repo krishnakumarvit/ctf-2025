@@ -1,0 +1,30 @@
+# Network Traffic Summary (PCAP Analysis)
+# Captured: 2025-10-20 14:20:00 - 14:30:00
+
+[14:23:18] TCP 10.0.1.42:45678 -> 185.220.101.47:443 [SYN]
+[14:23:18] TCP 185.220.101.47:443 -> 10.0.1.42:45678 [SYN-ACK]
+[14:23:18] TCP 10.0.1.42:45678 -> 185.220.101.47:443 [ACK]
+[14:23:19] TLS Client Hello (SNI: api.legitimate-cdn.net)
+[14:23:20] TLS Server Hello
+
+[14:23:21] POST /v2/analytics HTTP/1.1
+Host: api.legitimate-cdn.net
+Content-Type: application/json
+X-Client-Version: 3.7.2
+Content-Length: 2847
+
+[ENCRYPTED PAYLOAD - 2847 bytes]
+
+[14:25:35] DNS Query: sts.amazonaws.com
+[14:25:35] DNS Response: 52.94.76.2
+
+[14:25:36] TLS to 52.94.76.2:443
+POST /AssumeRole HTTP/1.1
+Host: sts.amazonaws.com
+User-Agent: python-requests/2.31.0
+
+[14:26:10] DNS Query: s3.amazonaws.com
+[14:28:46] Large data transfer to S3 (47.3 MB)
+
+# Suspicious Pattern: Tor exit node 185.220.101.47
+# Known malicious: api.legitimate-cdn.net (typosquat of legitimate-cdn.com)

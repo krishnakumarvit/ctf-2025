@@ -1,0 +1,600 @@
+[
+  {
+    "eventTime": "2025-10-20T10:00:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T10:01:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T10:02:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T10:03:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T10:04:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T10:05:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T10:06:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T10:07:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T10:08:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T10:09:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T11:10:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T11:11:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T11:12:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T11:13:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T11:14:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T11:15:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T11:16:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T11:17:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T11:18:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T11:19:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T12:20:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T12:21:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T12:22:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T12:23:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T12:24:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T12:25:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T12:26:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T12:27:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T12:28:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T12:29:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T13:30:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T13:31:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T13:32:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T13:33:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T13:34:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T13:35:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T13:36:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T13:37:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T13:38:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T13:39:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T14:40:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T14:41:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T14:42:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T14:43:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T14:44:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T14:45:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T14:46:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T14:47:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T14:48:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T14:49:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "admin",
+      "principalId": "AIDAI23HXS4LNXAMPLE"
+    },
+    "sourceIPAddress": "203.0.113.42",
+    "userAgent": "aws-cli/2.13.0"
+  },
+  {
+    "eventTime": "2025-10-20T14:23:17Z",
+    "eventName": "AssumeRole",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "ci-deploy-bot",
+      "principalId": "AIDAI89KLP3MNEXAMPLE"
+    },
+    "sourceIPAddress": "185.220.101.47",
+    "userAgent": "python-requests/2.31.0",
+    "requestParameters": {
+      "roleArn": "arn:aws:iam::123456789012:role/AdminRole",
+      "roleSessionName": "npm-build-session"
+    },
+    "responseElements": {
+      "credentials": {
+        "accessKeyId": "ASIAIOSFODNN7EXAMPLE",
+        "sessionToken": "FwoGZXIvYXdzEBYaDH..."
+      }
+    }
+  },
+  {
+    "eventTime": "2025-10-20T14:28:45Z",
+    "eventName": "PutObject",
+    "userIdentity": {
+      "type": "AssumedRole",
+      "principalId": "ASIAIOSFODNN7EXAMPLE",
+      "arn": "arn:aws:sts::123456789012:assumed-role/AdminRole/npm-build-session"
+    },
+    "sourceIPAddress": "185.220.101.47",
+    "requestParameters": {
+      "bucketName": "backup-logs-temp",
+      "key": "system-backup-20251020.tar.gz.b64"
+    }
+  },
+  {
+    "eventTime": "2025-10-20T14:25:33Z",
+    "eventName": "GetSecretValue",
+    "userIdentity": {
+      "type": "AssumedRole",
+      "principalId": "ASIAIOSFODNN7EXAMPLE"
+    },
+    "sourceIPAddress": "185.220.101.47",
+    "requestParameters": {
+      "secretId": "prod/database/master-key"
+    },
+    "responseElements": null
+  }
+]

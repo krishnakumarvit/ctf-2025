@@ -1,0 +1,14 @@
+{
+  "name": "cloud-logger-utils",
+  "version": "3.7.2",
+  "description": "Utility for cloud logging",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node scripts/setup.js",
+    "test": "echo \"No tests specified\""
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1234.0",
+    "axios": "^1.5.0"
+  }
+}
